@@ -66,4 +66,4 @@
 * Promotes culture, processes and best practices across the company
 * Board member
 
-> [*] the number of years of experience is indicative, for example a developer with 8 years could be a lead developer, it depends on the skills and maturity, the same for others levels of course. 
+> [*] the number of years of experience is provided as indication only. A developer with 8 years of experience could be hired as a lead developer, it depends on the skills and professional maturity. The same goes for the other levels.
