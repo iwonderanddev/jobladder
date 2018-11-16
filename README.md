@@ -2,7 +2,7 @@
 
 **Level 1**
 * Title: Developer
-* Experience: ~0–4 years
+* Experience: ~0–4 years*
 * Goals: Builds defined features, investigates and fixes bugs, writes tests
   * Focus on growing as developer learning existing tools, resources and processes
   * Communicates progress, identifies blocking issues
@@ -11,7 +11,7 @@
 
 **Level 2**
 * Title: Senior Developer
-* Experience: ~3–8 years
+* Experience: ~3–8 years*
 * Goals: 
   * Requires minimal direction/oversight
   * Has deep technical expertise
@@ -25,7 +25,7 @@
 
 **Level 3**
 * Title: Lead developer
-* Experience: ~10+ years
+* Experience: ~10+ years*
 * Role: 
   * Lead a product team
   * Owns the development and rollout for the entire product
@@ -65,3 +65,5 @@
 * Has a global vision of the technical solution of the products
 * Promotes culture, processes and best practices across the company
 * Board member
+
+> [*] the number of years of experience is indicative, for example a developer with 8 years could be a lead developer, it depends on the skills and maturity, the same for others levels of course. 
