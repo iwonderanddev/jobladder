@@ -1,5 +1,7 @@
 # IWD dev team ladder
 
+## Developer roles
+
 ### Level 1: Developer
 * Experience: ~0–4 years*
 * Report: manager
@@ -35,7 +37,8 @@
   * Listen and guide debates to help reach a consensus
   * Goes out of their way to reduce complexity
   * Has deep technical & business/product expertise
-  * Contribute to the product design
+  * Contribute to the product design with the product team
+  * Dispatch & manage support team issue
   * Involve in the hiring process
 
 ## Other roles
