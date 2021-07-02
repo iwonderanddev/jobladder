@@ -8,7 +8,7 @@
 * Goals: 
   * Builds defined features, investigates and fixes bugs, writes tests
   * Focus on growing as developer learning existing tools, resources and processes
-  * Communicates progress, identifies blocking issues
+  * Communicates progress and when something is blocking
   * Code review
   * Respect team process
 
@@ -18,13 +18,13 @@
 * Goals: 
   * Requires minimal direction/oversight
   * Has deep technical expertise
+  * Can tackle backend or frontend features even if it's not his/her first area of expertise
   * Takes initiative to identify and solve important problems
   * Regularly delivers software on-time
   * Self-sufficient in at least one large area of the codebase 
-  * Code review
   * Makes others better through code reviews, documentation, technical guidance, and mentoring
   * The best practice, process and documentation watchdog
-  * Develop domains skills
+  * Develop domains/business skills
 
 ### Level 3: Lead developer
 * Experience: ~10+ years*
@@ -37,6 +37,7 @@
   * Listen and guide debates to help reach a consensus
   * Goes out of their way to reduce complexity
   * Has deep technical & business/product expertise
+  * Can tackle backend or frontend features even if it's not his/her first area of expertise
   * Contribute to the product design with the product team
   * Dispatch & manage support team issue
   * Involve in the hiring process
@@ -51,14 +52,6 @@
   * Manage the backup system for the entire company
   * Help developers with the CI, other environments (dev ends, preprod, test...) & productivity
   * Produce tools to support developers
-
-### Architect
-* Experience: ~10+ years*
-* Report: CTO
-* Goals:
-   * Works in collaboration with teams' lead developers to organize and manage high priority projects
-   * Promotes culture, processes and best practices across all the teams
-   * Has a global vision of the technical solution of all products
 
 ### Manager
 * Experience: ~8+ years*
