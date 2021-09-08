@@ -13,7 +13,7 @@
   * Respect team process
 
 ### Level 2: Senior Developer
-* Experience: ~3–8 years*
+* Experience: ~5–10 years*
 * Report: CTO
 * Goals: 
   * Requires minimal direction/oversight
