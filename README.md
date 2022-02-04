@@ -1,38 +1,74 @@
 # IWD dev team ladder
 
+This job ladder exposes all roles inside IWD development department, and define the goals, expectations and responsibilities of each role.
+Constant progression, and meeting your individual objectives will help you to climb it.
+
+Be aware that some basic expectations are not specified in the roles:
+* Being involved into team reviews
+* Delivering software on-time
+* Communicating, seeking help when stuck
+* Being a "team player"
+
 ## Developer roles
 
-### Level 1: Developer
-* Experience: ~0–4 years*
-* Report: manager
-* Goals: 
-  * Builds defined features, investigates and fixes bugs, writes tests
-  * Focus on growing as developer learning existing tools, resources and processes
-  * Communicates progress and when something is blocking
-  * Code review
-  * Respect team process
+### Engineer I
+* Experience: ~0–2 years*
+* Report: Engineering Director
+* Goals:
+  * Works on features, with guidance
+  * Manages bugs & hotfixes
+  * Writes tests, with guidance
+  * Participate to review teammates work
+  * Focus on growing as an engineer developer
+  * Start learning one aspect of the technical stack
 
-### Level 2: Senior Developer
-* Experience: ~5–10 years*
-* Report: CTO
+### Engineer II
+* Experience: ~2–4 years*
+* Report: Engineering Director
+* Goals:
+  * Work on features, with minimal guidance
+  * Manage bugs & hotfixes
+  * Write tests, with minimal guidance
+  * Review & Approve teammates work
+  * Master one aspect of his project technical stack
+
+### Senior Engineer I
+* Experience: ~4–7 years*
+* Report: Engineering Director
 * Goals: 
-  * Requires minimal direction/oversight
-  * Has deep technical expertise
-  * Can tackle backend or frontend features even if it's not his/her first area of expertise
-  * Takes initiative to identify and solve important problems
-  * Regularly delivers software on-time
-  * Self-sufficient in at least one large area of the codebase 
-  * Makes others better through code reviews, documentation, technical guidance, and mentoring
-  * The best practice, process and documentation watchdog
+  * Work on epics, with minimal guidance
+  * Work on features, without guidance
+  * Write tests, without guidance
+  * Review & Approve teammates work
+  * Master his project technical stack
+  * Expert in one technology
+  * Expert in one large area of the codebase 
+  * Guide Engineer I & II
+
+### Senior Engineer II
+* Experience: ~5–10 years*
+* Report: Engineering Director
+* Goals: 
+  * Work on epics, without guidance
+  * Work on features, without guidance
+  * Write tests, without guidance
+  * Review & Approve teammates work
+  * Master his project technical stack
+  * Expert in more than one technology
+  * Expert in many areas of the codebase 
+  * Guide Senior Engineer I, and Engineer I & II
+  * Take initiatives to find and qualify structural issues
+  * Helps managing product technical backlog
+  * Knows, Defines, Challenges, Evangelizes best practices, processes and documentation
   * Develop domains/business skills
 
-### Level 3: Lead developer
+### Lead Engineer
 * Experience: ~10+ years*
-* Report: CTO
+* Report: Engineering Director
 * Goals: 
   * Lead a product team
   * Owns the development and rollout for the entire product
-  * Promote culture, process, best practice
+  * Knows, Defines, Challenges, Evangelizes best practices, processes and culture
   * Identifies risks before starting major projects
   * Listen and guide debates to help reach a consensus
   * Goes out of their way to reduce complexity
