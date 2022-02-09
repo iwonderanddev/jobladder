@@ -11,21 +11,21 @@ However, some implicit expectations are not specified in the roles:
 
 ## Track
 
-| Individual contributor (IC) | Manager           |
+| Individual Contributor (IC) | Manager           |
 | --------------------------- | ----------------- |
 | Engineer I                  |                   |
-| Engineer II                 |                   |
-| Senior Engineer I           |                   |
-| Senior Engineer II          |                   |
+| Engineer II / OPS           |                   |
+| Senior Engineer I / OPS     |                   |
+| Senior Engineer II / OPS    |                   |
 | Lead Engineer               |                   |
 |                             | Engineer Director |
 |                             | CTO               |
 
-## Developer roles
+## Individual Contributor
 
 ### Engineer I
 
-- Experience: ~0–2 years\*
+- Experience: ~0–2 years
 - Report: Engineering Director
 - Goals:
   - Works on features, with guidance
@@ -38,7 +38,7 @@ However, some implicit expectations are not specified in the roles:
 
 ### Engineer II
 
-- Experience: ~2–4 years\*
+- Experience: ~2–4 years
 - Report: Engineering Director
 - Goals:
   - Work on features, with minimal guidance
@@ -51,7 +51,7 @@ However, some implicit expectations are not specified in the roles:
 
 ### Senior Engineer I
 
-- Experience: ~4–7 years\*
+- Experience: ~4–7 years
 - Report: Engineering Director
 - Goals:
   - Work on epics, with minimal guidance
@@ -66,7 +66,7 @@ However, some implicit expectations are not specified in the roles:
 
 ### Senior Engineer II
 
-- Experience: ~5–10 years\*
+- Experience: ~5–10 years
 - Report: Engineering Director
 - Goals:
   - Work on epics, without guidance
@@ -84,7 +84,7 @@ However, some implicit expectations are not specified in the roles:
 
 ### Lead Engineer
 
-- Experience: ~10+ years\*
+- Experience: ~10+ years
 - Report: Engineering Director
 - Goals:
   - Lead a product team
@@ -100,21 +100,24 @@ However, some implicit expectations are not specified in the roles:
   - Dispatch & manage support team issue
   - Involve in the hiring process
 
-## Other roles
-
 ### Ops
 
-- Experience: ~0-10+ years\*
-- Report: CTO
+- Experience: ~0-10+ years
+- Report: Engineering Director
 - Goals:
-  - Set up, supervise and monitor the production servers with the state of art technologies & best practices
+  - Set up, supervise and monitor infrastructure & best practices
   - Manage the backup system for the entire company
-  - Help developers with the CI, other environments (dev ends, preprod, test...) & productivity
-  - Produce tools to support developers
+  - Help developers to be more efficient by building and maintaining internal tools & infrastructure
+  - Takes initiative to identify and solve important problems
+- Makes others better through code reviews, documentation, technical guidance and mentoring
 
-### Manager
+## Manager
 
-- Experience: ~8+ years\*
+### Engineering Director
+
+///// TODO
+
+- Experience: ~10+ years
 - Report: CTO
 - Goals:
   - Works with the CTO
@@ -124,7 +127,9 @@ However, some implicit expectations are not specified in the roles:
 
 ### CTO
 
-- Experience: ~10+ years\*
+///// TODO
+
+- Experience: ~10+ years
 - Report: CEO
 - Goals:
   - Helps the dev team to achieve the company's goals
@@ -136,4 +141,4 @@ However, some implicit expectations are not specified in the roles:
   - Promotes culture, processes and best practices across the company
   - Board member
 
-> [*] the number of years of experience is provided as indication only. A developer with 8 years of experience could be hired as a lead developer, it depends on the skills and professional maturity. The same goes for the other levels.
+> [*] the number of years of experience is provided as indication only. A developer with 8 years of experience could be hired as a Lead Engineer, it depends on the skills and professional maturity. The same goes for the other levels.
