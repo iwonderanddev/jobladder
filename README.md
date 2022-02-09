@@ -87,18 +87,25 @@ However, some implicit expectations are not specified in the roles:
 - Experience: ~10+ years
 - Report: Engineering Director
 - Goals:
-  - Lead a product team
-  - Owns the development and rollout for the entire product
-  - Ensure his contributors have delivered on-time
-  - Knows, Defines, Challenges, Evangelizes best practices, processes and culture
-  - Identifies risks before starting major projects
-  - Listen and guide debates to help reach a consensus
-  - Goes out of their way to reduce complexity
-  - Has deep technical & business/product expertise
-  - Can tackle backend or frontend features even if it's not his/her first area of expertise
-  - Contribute to the product design with the product team
-  - Dispatch & manage support team issue
-  - Involve in the hiring process
+  - Lead a Squad team (*see definition above*)
+    - Supervise project's development, deadlines, rollout & support
+    - Manage technical backlog
+    - Report Squad/project status to Engineering Director
+    - Involved in hiring process
+    - Mentor Senior Engineer I & II
+    - Listen and guide debates to help the squad reaching a consensus
+    - Product Owner main contact
+  - Project's technical stack guarantor
+    - Technological watch
+    - Challenge his squad proposals
+    - Identify risks & justify choices
+  - Expert in more than one technology
+  - Expert in many areas of the codebase
+  - Know, Define, Challenge, Evangelize best practices, processes and documentation
+  - Master in domain / business skills
+
+> 💡 **Squad team**  
+> A Squad team is an autonomous group of individual contributors, lead by a Product Owner and a Lead Engineer, working on business project
 
 ### Ops
 
