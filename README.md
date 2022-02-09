@@ -1,12 +1,11 @@
 # IWD dev team ladder
 
-This job ladder exposes all roles inside IWD development department, and define the goals, expectations and responsibilities of each role.
-Constant progression, and meeting your individual objectives will help you to climb it.
+This job ladder exposes all roles inside IWD dev team, and define the goals, expectations and responsibilities of each role.
+To climb this ladder you will know what to do: Constant progression, being involved and meeting your individual objectives.
 
-Be aware that some basic expectations are not specified in the roles:
+However, some implicit expectations are not specified in the roles:
 
-- Being involved into team reviews
-- Delivering software on-time
+- Being involved into code reviews
 - Communicating, seeking help when stuck
 - Being a "team player"
 
@@ -34,7 +33,8 @@ Be aware that some basic expectations are not specified in the roles:
   - Writes tests, with guidance
   - Participate to review teammates work
   - Focus on growing as an engineer developer
-  - Start learning one aspect of the technical stack
+  - Learn one aspect of the technical stack
+  - Learn to deliver on-time
 
 ### Engineer II
 
@@ -46,6 +46,8 @@ Be aware that some basic expectations are not specified in the roles:
   - Write tests, with minimal guidance
   - Review & Approve teammates work
   - Master one aspect of his project technical stack
+  - Deliver on-time
+  - Learn domain / business skills
 
 ### Senior Engineer I
 
@@ -59,7 +61,8 @@ Be aware that some basic expectations are not specified in the roles:
   - Master his project technical stack
   - Expert in one technology
   - Expert in one large area of the codebase
-  - Guide Engineer I & II
+  - Mentor Engineer I
+  - Focus on developing domain / business skills
 
 ### Senior Engineer II
 
@@ -73,11 +76,11 @@ Be aware that some basic expectations are not specified in the roles:
   - Master his project technical stack
   - Expert in more than one technology
   - Expert in many areas of the codebase
-  - Guide Senior Engineer I, and Engineer I & II
+  - Mentor Engineer II & Senior Engineer I
   - Take initiatives to find and qualify structural issues
-  - Helps managing product technical backlog
-  - Knows, Defines, Challenges, Evangelizes best practices, processes and documentation
-  - Develop domains/business skills
+  - Manage technical backlog with Lead Engineer
+  - Know, Define, Challenge, Evangelize best practices, processes and documentation
+  - Expert in domain / business skills
 
 ### Lead Engineer
 
@@ -86,6 +89,7 @@ Be aware that some basic expectations are not specified in the roles:
 - Goals:
   - Lead a product team
   - Owns the development and rollout for the entire product
+  - Ensure his contributors have delivered on-time
   - Knows, Defines, Challenges, Evangelizes best practices, processes and culture
   - Identifies risks before starting major projects
   - Listen and guide debates to help reach a consensus
