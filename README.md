@@ -23,18 +23,14 @@ However, some implicit expectations are not specified in the roles:
 
 ## Individual Contributor
 
-> 💡 **Note**  
-> - Each role **includes previous role responsibilities**.  
-> - Number of years of experience *are indication only*: **skills and professional maturity** are taken into account
-
 ### Engineer I
 
 - Entry-level experience requirement: ~0–2 years
 - Report: Engineering Director
 - Goals:
-  - Works on features, with guidance
-  - Manages bugs & hotfixes
-  - Writes tests, with guidance
+  - Work on features, with guidance
+  - Manage bugs & hotfixes
+  - Write tests, with guidance
   - Participate to review teammates work
   - Focus on growing as an engineer developer
   - Learn one aspect of the technical stack
@@ -87,6 +83,7 @@ However, some implicit expectations are not specified in the roles:
 - Goals:
   - Lead a Squad team (*see definition above*)
     - Supervise project's development, deadlines, rollout & support
+    - Provide guidance to transversal subjects
     - Manage technical backlog
     - Report Squad/project status to Engineering Director
     - Involved in hiring process
@@ -98,9 +95,6 @@ However, some implicit expectations are not specified in the roles:
     - Challenge his squad proposals
     - Identify risks & justify choices
   - Master in domain / business skills
-
-> 💡 **Squad team**  
-> A Squad team is an autonomous group of individual contributors, lead by a Product Owner and a Lead Engineer, working on business project
 
 ## Manager
 
@@ -129,3 +123,9 @@ However, some implicit expectations are not specified in the roles:
   - Roadmap definition
   - Organize and manage high priority projects
   - Steering group member
+
+# Nota Bene
+
+- In IC track, each role **includes previous role responsibilities**.
+- Number of years of experience are indication only: **skills and professional maturity** are taken into account
+- **Squad team** - *A Squad team is an autonomous group of individual contributors, lead by a Product Owner and a Lead Engineer, working on business project.*
