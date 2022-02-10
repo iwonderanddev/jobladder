@@ -23,9 +23,13 @@ However, some implicit expectations are not specified in the roles:
 
 ## Individual Contributor
 
+> 💡 **Note**  
+> Each role includes previous role responsibilities.
+
+
 ### Engineer I
 
-- Experience: ~0–2 years
+- Entry-level experience requirement: ~0–2 years
 - Report: Engineering Director
 - Goals:
   - Works on features, with guidance
@@ -38,11 +42,10 @@ However, some implicit expectations are not specified in the roles:
 
 ### Engineer II
 
-- Experience: ~2–4 years
+- Entry-level experience requirement: ~2–4 years
 - Report: Engineering Director
 - Goals:
   - Work on features, with minimal guidance
-  - Manage bugs & hotfixes
   - Write tests, with minimal guidance
   - Review & Approve teammates work
   - Master one aspect of his project technical stack
@@ -51,13 +54,12 @@ However, some implicit expectations are not specified in the roles:
 
 ### Senior Engineer I
 
-- Experience: ~4–7 years
+- Entry-level experience requirement: ~4–7 years
 - Report: Engineering Director
 - Goals:
   - Work on epics, with minimal guidance
   - Work on features, without guidance
   - Write tests, without guidance
-  - Review & Approve teammates work
   - Master his project technical stack
   - Expert in one technology
   - Expert in one large area of the codebase
@@ -66,14 +68,10 @@ However, some implicit expectations are not specified in the roles:
 
 ### Senior Engineer II
 
-- Experience: ~5–10 years
+- Entry-level experience requirement: ~5–10 years
 - Report: Engineering Director
 - Goals:
   - Work on epics, without guidance
-  - Work on features, without guidance
-  - Write tests, without guidance
-  - Review & Approve teammates work
-  - Master his project technical stack
   - Expert in more than one technology
   - Expert in many areas of the codebase
   - Mentor Engineer II & Senior Engineer I
@@ -84,7 +82,7 @@ However, some implicit expectations are not specified in the roles:
 
 ### Lead Engineer
 
-- Experience: ~10+ years
+- Entry-level experience requirement: ~10+ years
 - Report: Engineering Director
 - Goals:
   - Lead a Squad team (*see definition above*)
@@ -99,9 +97,6 @@ However, some implicit expectations are not specified in the roles:
     - Technological watch
     - Challenge his squad proposals
     - Identify risks & justify choices
-  - Expert in more than one technology
-  - Expert in many areas of the codebase
-  - Know, Define, Challenge, Evangelize best practices, processes and documentation
   - Master in domain / business skills
 
 > 💡 **Squad team**  
@@ -109,7 +104,7 @@ However, some implicit expectations are not specified in the roles:
 
 ### Ops
 
-- Experience: ~0-10+ years
+- Entry-level experience requirement: ~0-10+ years
 - Report: Engineering Director
 - Goals:
   - Set up, supervise and monitor infrastructure & best practices
@@ -122,9 +117,11 @@ However, some implicit expectations are not specified in the roles:
 
 ### Engineering Director
 
+
+Work with the CTO to make the company’s vision actionable. Remove bottlenecks. Communicate quarterly business goals. Recruit senior hires. Manage P&L. Lead directors and managers.
 ///// TODO
 
-- Experience: ~10+ years
+- Entry-level experience requirement: ~10+ years
 - Report: CTO
 - Goals:
   - Works with the CTO
@@ -136,7 +133,7 @@ However, some implicit expectations are not specified in the roles:
 
 ///// TODO
 
-- Experience: ~10+ years
+- Entry-level experience requirement: ~10+ years
 - Report: CEO
 - Goals:
   - Helps the dev team to achieve the company's goals
