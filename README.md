@@ -14,18 +14,18 @@ However, some implicit expectations are not specified in the roles:
 | Individual Contributor (IC) | Manager           |
 | --------------------------- | ----------------- |
 | Engineer I                  |                   |
-| Engineer II / OPS           |                   |
-| Senior Engineer I / OPS     |                   |
-| Senior Engineer II / OPS    |                   |
+| Engineer II                 |                   |
+| Senior Engineer I           |                   |
+| Senior Engineer II          |                   |
 | Lead Engineer               |                   |
 |                             | Engineer Director |
-|                             | CTO               |
+|                             | CTO/CPO           |
 
 ## Individual Contributor
 
 > 💡 **Note**  
-> Each role includes previous role responsibilities.
-
+> - Each role **includes previous role responsibilities**.  
+> - Number of years of experience *are indication only*: **skills and professional maturity** are taken into account
 
 ### Engineer I
 
@@ -93,7 +93,7 @@ However, some implicit expectations are not specified in the roles:
     - Mentor Senior Engineer I & II
     - Listen and guide debates to help the squad reaching a consensus
     - Product Owner main contact
-  - Project's technical stack guarantor
+  - Technical stack owner
     - Technological watch
     - Challenge his squad proposals
     - Identify risks & justify choices
@@ -102,47 +102,30 @@ However, some implicit expectations are not specified in the roles:
 > 💡 **Squad team**  
 > A Squad team is an autonomous group of individual contributors, lead by a Product Owner and a Lead Engineer, working on business project
 
-### Ops
-
-- Entry-level experience requirement: ~0-10+ years
-- Report: Engineering Director
-- Goals:
-  - Set up, supervise and monitor infrastructure & best practices
-  - Manage the backup system for the entire company
-  - Help developers to be more efficient by building and maintaining internal tools & infrastructure
-  - Takes initiative to identify and solve important problems
-- Makes others better through code reviews, documentation, technical guidance and mentoring
-
 ## Manager
 
 ### Engineering Director
 
-
-Work with the CTO to make the company’s vision actionable. Remove bottlenecks. Communicate quarterly business goals. Recruit senior hires. Manage P&L. Lead directors and managers.
-///// TODO
-
 - Entry-level experience requirement: ~10+ years
-- Report: CTO
+- Report: CTO/CPO
 - Goals:
-  - Works with the CTO
-  - Team building
-  - Manage developers (level 1)
-  - Involve in the hiring process
+  - Work closely with the CTO to make the company’s vision actionable
+  - Manage Engineer team
+  - Plan & Manage recruitment alongside business goals
+  - Have a global vision of products technical solution / OPS
+  - Define & Organize development workflow processes, culture
+  - Help teams to remove bottlenecks, improve velocity, resolve conflicts
+  - Ensure operational support organisation across products
+  - Manage & report budget
 
-### CTO
-
-///// TODO
+### CTO/CPO
 
 - Entry-level experience requirement: ~10+ years
 - Report: CEO
 - Goals:
-  - Helps the dev team to achieve the company's goals
-  - Works with the product team to define what to do next
+  - Work closely with the Engineering Director to make the company’s vision actionable
+  - Manage Product team & Engineering Director
+  - Define Product strategy
+  - Roadmap definition
   - Organize and manage high priority projects
-  - Manage Lead & Senior developers
-  - Manages hiring
-  - Has a global vision of the technical solution of the products
-  - Promotes culture, processes and best practices across the company
-  - Board member
-
-> [*] the number of years of experience is provided as indication only. A developer with 8 years of experience could be hired as a Lead Engineer, it depends on the skills and professional maturity. The same goes for the other levels.
+  - Steering group member
