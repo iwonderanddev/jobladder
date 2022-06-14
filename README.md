@@ -26,7 +26,7 @@ However, some implicit expectations are not specified in the roles:
 ### Engineer I
 
 - Entry-level experience requirement: ~0–2 years
-- Report: Engineering Director
+- Report: Lead Engineer
 - Goals:
   - Work on features, with guidance
   - Manage bugs & hotfixes
@@ -39,7 +39,7 @@ However, some implicit expectations are not specified in the roles:
 ### Engineer II
 
 - Entry-level experience requirement: ~2–4 years
-- Report: Engineering Director
+- Report: Lead Engineer
 - Goals:
   - Work on features, with minimal guidance
   - Write tests, with minimal guidance
@@ -51,7 +51,7 @@ However, some implicit expectations are not specified in the roles:
 ### Senior Engineer I
 
 - Entry-level experience requirement: ~4–7 years
-- Report: Engineering Director
+- Report: Lead Engineer
 - Goals:
   - Work on epics, with minimal guidance
   - Work on features, without guidance
@@ -65,7 +65,7 @@ However, some implicit expectations are not specified in the roles:
 ### Senior Engineer II
 
 - Entry-level experience requirement: ~5–10 years
-- Report: Engineering Director
+- Report: Lead Engineer
 - Goals:
   - Work on epics, without guidance
   - Expert in more than one technology
